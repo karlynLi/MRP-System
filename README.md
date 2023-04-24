@@ -17,25 +17,30 @@
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/material%20list.png)
 
 - 新增原物料
+
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20material.png)
 
 - 修改原物料
+
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/edit%20material.png)
 
 ### 產品清單
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/product%20list.png)
 
 - 新增產品
+
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20product.png)
 
 ### 排程清單
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/schedule%20list.jpg)
 
 - 新增排程
+
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20schedule.jpg)
 
 ### 訂購清單
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/order%20list.jpg)
 
 - 新增訂單
+
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20order.jpg)
