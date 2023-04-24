@@ -14,22 +14,22 @@
 
 ## 網頁介紹
 ### 物料清單(首頁)
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/material%20list.png)
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/material%20list.jpg)
 
 - 新增原物料
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20material.png)
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20material.jpg)
 
 - 修改原物料
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/edit%20material.png)
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/edit%20material.jpg)
 
 ### 產品清單
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/product%20list.png)
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/product%20list.jpg)
 
 - 新增產品
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20product.png)
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20product.jpg)
 
 ### 排程清單
 ![image](https://github.com/karlynLi/MRP-System/blob/main/img/schedule%20list.jpg)
