@@ -10,7 +10,7 @@
 - 使用的套件 : Bootstrap
 
 ## 資料庫介紹 - ERD
-<img src='https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg' width='800px'>
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg' width='600px'>
 
 ## 網頁介紹
 ### 物料清單(首頁)
@@ -18,29 +18,29 @@
 
 - 新增原物料
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20material.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/add%20material.jpg' width='800px'>
 
 - 修改原物料
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/edit%20material.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/edit%20material.jpg' width='800px'>
 
 ### 產品清單
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/product%20list.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/product%20list.jpg' width='800px'>
 
 - 新增產品
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20product.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/add%20product.jpg' width='800px'>
 
 ### 排程清單
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/schedule%20list.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/schedule%20list.jpg' width='800px'>
 
 - 新增排程
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20schedule.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/add%20schedule.jpg' width='800px'>
 
 ### 訂購清單
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/order%20list.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/order%20list.jpg' width='800px'>
 
 - 新增訂單
 
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20order.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/add%20order.jpg' width='800px'>
