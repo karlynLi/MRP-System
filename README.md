@@ -1,6 +1,6 @@
 # MRP System
-設計一個簡單的MRP System，去進行整個製造流程的管理，
-當收到客戶訂單時，我們需要去檢視產品的原料庫存，
+設計一個簡單的MRP System，去進行整個製造流程的管理， <br>
+當收到客戶訂單時，我們需要去檢視產品的原料庫存， <br>
 若庫存不足，則須安排叫貨；若庫存足夠，則須安排製造時程，以使訂單能準時交予客戶手中。
 
 
@@ -10,7 +10,7 @@
 - 使用的套件 : Bootstrap
 
 ## 資料庫介紹 - ERD
-![image](https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg)
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg' width='100px'>
 
 ## 網頁介紹
 ### 物料清單(首頁)
