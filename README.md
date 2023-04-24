@@ -10,7 +10,7 @@
 - 使用的套件 : Bootstrap
 
 ## 資料庫介紹 - ERD
-<img src='https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg' width='100px'>
+<img src='https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg' width='500px'>
 
 ## 網頁介紹
 ### 物料清單(首頁)
