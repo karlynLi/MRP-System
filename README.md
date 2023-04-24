@@ -1,39 +1,46 @@
-# A Simple MRP System
-
-## 頁面一 : 物料 list
-- 新增、修改
-- 欄位
-    - 原料名稱
-    - Lead time
-    - 庫存
-      - 數量新增時預設為 0
-
-## 頁面二 : BOM
-- 產品結構樹
-- 下拉清單顯示詳細資料
-- 新增、修改
-- 欄位
-    - 產品名稱
-    - 需要哪些材料、多少數量
-    - 排序
+# MRP System
+設計一個簡單的MRP System，去進行整個製造流程的管理，
+當收到客戶訂單時，我們需要去檢視產品的原料庫存，
+若庫存不足，則須安排叫貨；若庫存足夠，則須安排製造時程，以使訂單能準時交予客戶手中。
 
 
-## 頁面三 : 排程
-- 下拉清單
-- 新增、修改
-- 欄位
-    - Y/M/D 前需要有多少 A、B... 原料
-    - 最晚要 Y/M/D 叫 A、B... 原料
-    - 狀態
-        - 庫存滿足 or 還需要多少數量
+## 專案介紹
+- 呈現方式 : 網頁
+- 使用的語法 : php, SQL (Xampp)
+- 使用的套件 : Bootstrap
 
-## 訂購頁面
-- 下拉清單
-- 新增、修改
-- 欄位
-  - 原料名稱
-  - 原料總數量
-  - 物流狀態
-  - 訂購日期
-- 下拉顯示詳細訂購資訊
- 
+## 資料庫介紹 - ERD
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/ERD.jpg)
+
+## 網頁介紹
+### 物料清單(首頁)
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/material%20list.png)
+
+- 新增原物料
+
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20material.png)
+
+- 修改原物料
+
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/edit%20material.png)
+
+### 產品清單
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/product%20list.png)
+
+- 新增產品
+
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20product.png)
+
+### 排程清單
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/schedule%20list.jpg)
+
+- 新增排程
+
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20schedule.jpg)
+
+### 訂購清單
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/order%20list.jpg)
+
+- 新增訂單
+
+![image](https://github.com/karlynLi/MRP-System/blob/main/img/add%20order.jpg)
